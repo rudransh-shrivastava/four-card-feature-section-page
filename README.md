@@ -21,7 +21,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
-
+![screenshot](https://github.com/rudransh-shrivastava/four-card-feature-section-page/assets/125893371/c5df56d4-4a31-4b55-9254-97e5c7e2a9d6)
 
 ### Links
 
