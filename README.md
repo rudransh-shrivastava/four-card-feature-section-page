@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/rudransh-shrivastava/four-card-feature-section-page)
-- Live Site URL: [Live Site](http://rudransh.uk.to/FourCards/index.html)
+- Solution URL: [Solution]([https://github.com/rudransh-shrivastava/four-card-feature-section-page)](https://four-cards-component.netlify.app/)
+- Live Site URL: [Live Site](https://four-cards-component.netlify.app/)
 
 ## My process
 
@@ -36,6 +36,5 @@ Learnt how to use flexbox better, also learnt a lot about box shadows!
 
 ## Author
 
-- Website - [rudransh.uk.to](http://rudransh.uk.to)
 - Frontend Mentor - [@rudransh-shrivastava](https://www.frontendmentor.io/profile/rudransh-shrivastava)
 - Twitter - [@rudranshstwt](https://www.twitter.com/rudranshstwt)
